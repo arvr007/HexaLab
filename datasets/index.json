@@ -1626,6 +1626,26 @@
             "s13u_cube_rounded_2_hex_opt.vtk"
           ]
         },
+		{
+      "paper": {
+          "title": "A Review of a B-spline based Volumetric Representation: Design, Analysis and Fabrication of Porous and/or Heterogeneous Geometries",
+          "venue": "Computer Aided Design, Volume 163",
+          "authors": "James Gregson, Alla Sheffer, Eugene Zhang",
+          "year": "Gershon Elber",
+          "PDF": "",
+          "web": "https://gershon.cs.technion.ac.il/irit/",
+          "DOI": "10.1016/j.cad.2023.103587"
+      },
+      "path": "2023 - A Review of a B-spline based Volumetric Representation: Design, Analysis and Fabrication of Porous and/or Heterogeneous Geometrie",
+      "label": "2023 - A Review of a B-spline based Volumetric Representation: Design, Analysis and Fabrication of Porous and/or Heterogeneous Geometrie",
+      "data": [
+          "micro3strct13h.mesh",
+          "MS1Duck.mesh",
+          "MS1WingWithRoundedWinglet.mesh",
+          "MSSole.mesh",
+          "MSSpring.mesh"
+      ]
+    },
     {
         "paper": {
             "title": "Stress-Aligned Hexahedral Lattice Structures",
